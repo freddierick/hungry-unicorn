@@ -1,0 +1,9 @@
+
+*.png
+*.meta
+*.bin
+*.dll
+*.pdb
+Library/PlayerDataCache/WebGL/Data/sharedassets0.resource
+*.unity3d
+Library/il2cpp_cache
